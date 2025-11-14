@@ -17,7 +17,7 @@ Usage
 - Open the Figma file: [https://www.figma.com/design/eXu81kpXyhGsJg79psjz1I/Food-Delivery-Homepage-UI-UX?node-id=0-1&t=oqVOk8kzoaqnN7rS-1]
 
 Contributing
-Contributions are welcome! Please fork the repo and submit a pull request.
+- Contributions are welcome! Please fork the repo and submit a pull request.
 
 License
-MIT License
+- MIT License
